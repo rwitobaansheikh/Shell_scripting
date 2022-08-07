@@ -3,4 +3,4 @@
 NAME="Rwitobaan Sheikh"
 FAVOURITE_COLOR="Green"
 
-echo Hi $NAME your favourite color is $FAVOURITE_COLOR
+echo $NAME your favourite color is $FAVOURITE_COLOR

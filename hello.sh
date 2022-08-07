@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-echo "Hello World."
-echo Mars is Red
+echo Hello $(./greetings.sh)
 
 
